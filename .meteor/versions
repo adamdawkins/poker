@@ -37,6 +37,7 @@ iron:url@1.0.9
 joshowens:simple-form@0.2.2
 jquery@1.11.3_2
 json@1.0.3
+kaamodt:playing-cards-ui@0.8.0
 lai:collection-extensions@0.1.4
 launch-screen@1.0.2
 less@1.0.14
